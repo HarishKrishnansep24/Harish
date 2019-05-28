@@ -1,5 +1,5 @@
 n=input()
 if n%4==0 and n%100!=0 or n%400==0:
-  print("Leap")
+  print("yes")
 else:
-  print("No")
+  print("no")
